@@ -6,7 +6,7 @@ Projeto de aprendizado Python
 - Objetivo - 
 Criar uma aplicação para controlar as vendas de moedas cunhadas. Criar log local com numero da máquina, data, hora e valor pago.
 estas informações serão agrupadas em no servidor que fará as análise de dados, faturamento e projeção de produção de novas moedas.
-- <a href="#=funcionalidades">Funcionalidades do Projeto
+- <a href="#-funcionalidades">Funcionalidades do Projeto
 - <a href="#-tecnologias"> Tecnologias utilizadas
 - <a href="#-layout">Layout
 
